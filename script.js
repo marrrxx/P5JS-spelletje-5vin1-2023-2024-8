@@ -13,7 +13,7 @@ function setup() {
 function draw() {
   background('olive');
   
-  if (keyIsDown(LEFT_ARROW)) {
+  if (keyIsDbown(LEFT_ARROW)) {
     x -= 5;
   }
   if (keyIsDown(RIGHT_ARROW)) {
