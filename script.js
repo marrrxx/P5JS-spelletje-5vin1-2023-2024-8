@@ -35,7 +35,7 @@ class Bom {
     this.speed = random 
   }
     toon() {
-      image(bomPlaatje,this.x,this.y,raster.celGrootte,raster.celGrootte));
+      image(images/bom.jpg);
     }
   }
 
